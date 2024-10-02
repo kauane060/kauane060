@@ -1,16 +1,8 @@
 
-Olá, me chamo Kauane Vitória.
-![Descrição](https://media.tenor.com/COM78THbePQAAAAM/neymar.gif)
+ ## *Olá, me chamo Kauane Vitória.*
 
-- 👋 Hi, I’m @kauane060
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Descrição](https://cdn.conmebol.com/wp-content/uploads/2020/10/neymar_banner_0.jpg).
 
-<!---
-kauane060/kauane060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+Sou aluna do professor Richard de pensamento computacional, esse será meu repositório para guardae meus projetos do Java, minhas cores favoritas são rosa e azul, tenho 15 anos e sou aluna do Colégio Estadual Dom Pedro.
